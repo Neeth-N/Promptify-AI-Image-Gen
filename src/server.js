@@ -16,7 +16,7 @@ app.post('/generate-image', async (req, res) => {
       options: { wait_for_model: true }
     }, {
       headers: {
-        'Authorization': `Bearer ${process.env.HUGGINGFACE_API_KEY}`,
+        'Authorization': `Bearer ${{ secrets.HFAPI }}`,
         'Content-Type': 'application/json',
       },
       responseType: 'arraybuffer'  // Important: HF returns binary image data
