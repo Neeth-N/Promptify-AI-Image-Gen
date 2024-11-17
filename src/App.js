@@ -113,7 +113,7 @@ const ImageGeneratorForm = () => {
 
     try {
       setStatus('Generating your image...');
-      const response = await fetch('http://localhost:5000/generate-image', {
+      const response = await fetch('https://promptify-server-production.up.railway.app/generate-image', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
