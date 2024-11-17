@@ -1,0 +1,11 @@
+{
+  "name": "generate-image-api",
+  "version": "1.0.0",
+  "main": "generate-image.js",
+  "scripts": {
+    "start": "node generate-image.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
