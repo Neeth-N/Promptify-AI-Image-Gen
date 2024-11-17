@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Promptify-AI-Image-Gen/static/css/main.e6c13ad2.css",
+    "main.js": "/Promptify-AI-Image-Gen/static/js/main.f342d053.js",
+    "static/js/453.f0506628.chunk.js": "/Promptify-AI-Image-Gen/static/js/453.f0506628.chunk.js",
+    "index.html": "/Promptify-AI-Image-Gen/index.html",
+    "main.e6c13ad2.css.map": "/Promptify-AI-Image-Gen/static/css/main.e6c13ad2.css.map",
+    "main.f342d053.js.map": "/Promptify-AI-Image-Gen/static/js/main.f342d053.js.map",
+    "453.f0506628.chunk.js.map": "/Promptify-AI-Image-Gen/static/js/453.f0506628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f342d053.js"
+  ]
+}
